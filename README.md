@@ -1,2 +1,2 @@
-# FreedayQuiz_back
-API to make quiz games online developed in NodeJS
+# Hackaton 2024
+APP para gestionar gastos
